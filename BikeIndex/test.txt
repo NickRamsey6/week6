@@ -1,0 +1,15 @@
+{"bikes":
+[ {"id":627888,
+"title":"2017 Cannondale Habit",
+"serial":"PA08732",
+"manufacturer_name":"Cannondale",
+"frame_model":"Habit",
+"year":2017,
+"frame_colors":["Black"],
+"thumb":"https://files.bikeindex.org/uploads/Pu/166142/small_IMG_20190310_123125.jpg",
+"large_img":"https://files.bikeindex.org/uploads/Pu/166142/large_IMG_20190310_123125.jpg",
+"is_stock_img":false,
+"stolen":true,
+"stolen_location":"San Diego,CA,92131",
+"date_stolen":1562181693} ]
+}
